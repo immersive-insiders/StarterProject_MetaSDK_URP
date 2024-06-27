@@ -30,4 +30,6 @@ Project details:
 - All the examples scenes can be found under the Assets/Samples folder.
 
 NOTE:
-Make sure to change the Company Name and Product Name under player settings.
+- Make sure to change the Company Name and Product Name under player settings.
+- If you see pink materials you can easily correct it by selecting, Edit → Rendering → Materials → Convert Selected Built-in Materials to URP 
+
